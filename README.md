@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asadbek
-- 👀 I’m interested in: java script and java script frameworks
+- 👀 I’m interested in: javascript and javascript frameworks
 - 🌱 I’m currently learning: react js
 - 💞️ I’m looking to collaborate on: employers
 - 📫 How to reach me: write a message in the telegram (https://t.me/AAA_2304)
