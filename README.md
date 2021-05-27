@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asadbek
 - 👀 I’m interested in: javascript and javascript frameworks
-- 🌱 I’m currently learning: react js
+- 🌱 I’m currently learning: node js
 - 💞️ I’m looking to collaborate on: employers
 - 📫 How to reach me: write a message in the telegram (https://t.me/AAA_2304)
 
